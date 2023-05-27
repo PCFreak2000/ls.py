@@ -1,2 +1,2 @@
 # ls.py
-Yet another ls clone
+ls by the one and only Dodo. (Ain't no one fuck with 'em)
